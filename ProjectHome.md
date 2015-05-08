@@ -1,0 +1,1 @@
+O Web Crawler UFRJ é um projeto open source desenvolvido em Java por alunos da COPPE-UFRJ. Com este Web Crawler é possível acoplar a sua aplicação um web crawler sem muito esforço
